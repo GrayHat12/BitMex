@@ -1,0 +1,2 @@
+# BitMex
+ BitMex scraper
